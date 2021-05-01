@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/page/static/css/main.1d6b6ca5.chunk.css",
+    "main.js": "/page/static/js/main.ec718bae.chunk.js",
+    "main.js.map": "/page/static/js/main.ec718bae.chunk.js.map",
+    "runtime-main.js": "/page/static/js/runtime-main.06be623d.js",
+    "runtime-main.js.map": "/page/static/js/runtime-main.06be623d.js.map",
+    "static/js/2.f1d4ac4f.chunk.js": "/page/static/js/2.f1d4ac4f.chunk.js",
+    "static/js/2.f1d4ac4f.chunk.js.map": "/page/static/js/2.f1d4ac4f.chunk.js.map",
+    "static/js/3.65d9e021.chunk.js": "/page/static/js/3.65d9e021.chunk.js",
+    "static/js/3.65d9e021.chunk.js.map": "/page/static/js/3.65d9e021.chunk.js.map",
+    "index.html": "/page/index.html",
+    "static/css/main.1d6b6ca5.chunk.css.map": "/page/static/css/main.1d6b6ca5.chunk.css.map",
+    "static/js/2.f1d4ac4f.chunk.js.LICENSE.txt": "/page/static/js/2.f1d4ac4f.chunk.js.LICENSE.txt",
+    "static/media/backdrop.d11db35c.svg": "/page/static/media/backdrop.d11db35c.svg",
+    "static/media/comingsoon.b6339cbc.svg": "/page/static/media/comingsoon.b6339cbc.svg",
+    "static/media/photo.36a64b08.png": "/page/static/media/photo.36a64b08.png",
+    "static/media/twitter.e0cc6166.png": "/page/static/media/twitter.e0cc6166.png",
+    "static/media/webapp-1.623dabdd.png": "/page/static/media/webapp-1.623dabdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06be623d.js",
+    "static/js/2.f1d4ac4f.chunk.js",
+    "static/css/main.1d6b6ca5.chunk.css",
+    "static/js/main.ec718bae.chunk.js"
+  ]
+}
